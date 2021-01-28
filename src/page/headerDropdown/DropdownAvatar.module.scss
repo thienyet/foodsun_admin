@@ -1,0 +1,10 @@
+.container:hover{
+    background-color:#F5F5F5;
+}
+
+.fixLine{
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: horizontal; 
+    overflow: hidden; 
+    }

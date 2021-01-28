@@ -1,0 +1,24 @@
+.container{
+    max-width: 100%;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.03);
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.03);
+}
+
+.profile{
+    padding-top: 10px;
+}
+
+.card{
+    -webkit-box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.03);
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.03);
+}
+
+.fixLine{
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical; 
+    max-width: 400px;
+    margin: 0 0 1em 0;
+    overflow: hidden; 
+    }
